@@ -1,0 +1,3 @@
+[submodule "submoduls"]
+	path = submoduls
+	url = git@github.com:BeliaR1232/submoduls.git
